@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "239049173085",
+    "firebase_url": "https://mtjinchat.firebaseio.com",
+    "project_id": "mtjinchat",
+    "storage_bucket": "mtjinchat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239049173085:android:9a3546eedfad40ea",
+        "android_client_info": {
+          "package_name": "com.mtjin.mtjinchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239049173085-akrlbhr6j6mffapi006rvso1s3bhi8j6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mtjin.mtjinchat",
+            "certificate_hash": "2594505716124fb73c0d9ca0633d9dd80b38d943"
+          }
+        },
+        {
+          "client_id": "239049173085-558uhrvf32g2tc7m3hsj0p0ql4prra4p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuUkZc3ojCwz2XK9HafH6kBj6f44fFwC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "239049173085-558uhrvf32g2tc7m3hsj0p0ql4prra4p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
